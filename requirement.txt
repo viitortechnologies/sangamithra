@@ -1,0 +1,24 @@
+You are a senior web developer. create a fully responsive , modern, multi-page website with vibrant design and industry standards with minimal content. Then add dummy images from Pexels or other free website based on the following idea
+Business Details (replace as needed):
+Business Name: Aorg
+Tagline: Free lancer for business
+About: Website service provider
+Services/Products:
+Service 1 – Website
+Service 2 – Digital market
+Contact Details:
+Address: HitechCity, Hyderabad
+Phone: 9912832505
+Email: manager@companyname.com
+Working Hours: General hours
+Social Media Links: enable dummy links
+Required Pages & Sections:
+Home Page:
+Hero section with business name, tagline, and CTA button
+Services section
+About Us section
+Testimonials (optional placeholder)
+About Page: Detailed info about the business
+Contact Page:
+Address, map embed, phone, email
+Footer: With business info, navigation links, and social icons
